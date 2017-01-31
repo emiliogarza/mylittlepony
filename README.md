@@ -1,4 +1,4 @@
-# mylittlepony
+# Dance Unicorn, Dance
 Making my SVG little pony (unicorn) dance.
 
 My task is make an easter egg, (https://en.wikipedia.org/wiki/Easter_egg_(media)#Software). When a visitor presses the 'u' key on their keyboard an image of a unicorn should dance across the screen from left to right. Use your favorite unicorn image (from the internet, don’t send us the unicorn image), and make sure you clean up the DOM after unicorn has left the screen.
