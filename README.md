@@ -7,5 +7,5 @@ My task is make an easter egg, (https://en.wikipedia.org/wiki/Easter_egg_(media)
 - [ ] ~~Re-path the SVG I created in Illustrator so her legs are individual <path> elements. Currently, the entire body contains 2 of the legs also, so it isn't easy to move them.~~
 - [ ] ~~Write some CSS on each legs that transitions her legs into a galloping position.~~
 - [x] Write this all in JS functions that you can paste into console, that makes her dance across the screen.
-- [ ] Write a binding to the U key
-- [ ] Test it out.
+- [x] Write a binding to the U key
+- [x] Test it out.
